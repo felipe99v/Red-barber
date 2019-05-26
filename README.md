@@ -22,7 +22,14 @@
 ![Sin titulo](imagenes/1.jpg)
 
 
+### Observaciones Entregable Uno.
+- Más orden al momento de presentar la idea.
+- Contextualizar mejor el problema, respaldar con algunas cifras y necesidades puntuales.
+- Dominio del tiempo, la idea es ser claro y específico en el tiempo proporcionado.
+- Respecto al tablero, orientarlo más a la actividad a realizar (ventanas).
+- La nota aca proporcionada es 0.5 menos a aquellas personas que no estuvieron el día de la presentación.
 
+#### Nota: 4,1
 
 
 

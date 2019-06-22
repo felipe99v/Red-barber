@@ -1,0 +1,72 @@
+.App {
+    width: 100%;
+    height: auto;
+
+
+}
+
+.Title{
+    text-align: center;
+}
+
+.Footer{
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    background-color: #2E2E2E;
+    color: white;
+    
+}
+
+ .txt-footer{
+    text-align: center;
+}
+
+.cointainer-card{
+    max-width: 540px;
+}
+
+.wrapper{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+
+.wrapper-service{
+    padding-top: 20px;
+}
+
+.card-contact{
+    display: flex;
+    width: 18rem;
+}
+
+.wrapper-carduser{
+    display: flex;
+    padding-top: 20px;
+
+}
+
+.btn-txtarea{
+    padding-bottom: 50px;
+}
+
+.txt-title{
+    margin-left: 120px;
+    padding-top: 20px;
+}
+
+.input-user{
+    width: 500px;
+}
+
+.wrapper-botton{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+
+
+
+

@@ -5,7 +5,7 @@
 ----------------------------------------------------
 En el diagrama de clases se muestran tres diferentes clases como lo son: Cliente, barbería y servicio. En la clase cliente se muestran diferentes datos que el aplicativo guarda como lo son el nombre, apellidos, contraseña, ubicación y edad. Los cuales son requeridos para iniciar sesión en el aplicativo, para poder realizar búsquedas y para calificar las barberías. Otra clase que se muestra es la de barbería, esta clase tiene diferentes datos como lo son ID, Nombre, Número de contacto, Dirección y foto. Todos estos datos son requeríos para permitir que los usuarios puedan realizar búsquedas de las barberías .Por último esta la clase de servicios la cual está directamente relacionado con la clase barbería ya que las barberías tienen o prestan servicios y los datos que tiene esta clase son nombre, tipo y precio. Los cuales son necesarios para realizar búsquedas.
 
-![ Diagrama de clases ](diagram/ULM.png)
+![ Diagrama de clases ](diagram/UML.png)
 
 ## Diagrama Entidad Relacion (E-R)
 -------------------------------------------------------

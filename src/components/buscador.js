@@ -26,7 +26,7 @@ export class Buscador extends Component{
                                             </div>
                                             <div class="col-lg-3 col-md-3 col-sm-12 p-0">
                                  <select class="form-control search-slt" id="exampleFormControlSelect1">
-                                <option>Rando de precio</option>
+                                <option>Rango de precio</option>
                                 <option>5.000-10.000</option>
                                 <option>10.000-20.000</option>
                                 <option>20.000-30.000</option>
